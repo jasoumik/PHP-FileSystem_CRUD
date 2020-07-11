@@ -1,3 +1,3 @@
 # PHP-FileSystem_CRUD
 
-<img src="crudindex.jpg">
+<img src="crudindex.png">
